@@ -1,9 +1,7 @@
 # Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors.
 ### [[Project]](https://talegqz.github.io/neural_novel_actor/)[ [Paper]](https://arxiv.org/abs/2208.11905)
 
-<br/>
->[Qingzhe Gao*](https://talegqz.github.io/), [Yiming Wang*](https://19reborn.github.io/), [Libin Liu†](http://libliu.info/), [Lingjie Liu†](https://lingjie0206.github.io/), [Christian Theobalt](http://people.mpi-inf.mpg.de/~theobalt/), [Baoquan Chen†](https://cfcs.pku.edu.cn/baoquan/)
-
+> [Qingzhe Gao*](https://talegqz.github.io/), [Yiming Wang*](https://19reborn.github.io/), [Libin Liu†](http://libliu.info/), [Lingjie Liu†](https://lingjie0206.github.io/), [Christian Theobalt](http://people.mpi-inf.mpg.de/~theobalt/), [Baoquan Chen†](https://cfcs.pku.edu.cn/baoquan/) </br>
 > TVCG 2023
 
 <!-- todo:: add demo gif
